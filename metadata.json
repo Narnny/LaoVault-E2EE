@@ -1,0 +1,8 @@
+{
+  "name": "ລະບົບຄັງເອກະສານປອດໄພ E2EE (LaoVault)",
+  "description": "ລະບົບອັບໂຫຼດ ແລະ ຈັດການໄຟລ໌ຄວາມປອດໄພສູງ ຮອງຮັບການເຂົ້າລະຫັດ End-to-End (AES-256-GCM), ແຍກຕາມພະແນກ ແລະ ກວດສອບສິດທິຜູ້ໃຊ້ງານຢ່າງລະອຽດ ພ້ອມຟອນ Noto Sans Lao",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
